@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cffff8000Grylls|rDamageFont
+## Author: Grylls
+## Notes: Changes the damage font
+## Version: 2
+
+GryllsDamageFont.lua
