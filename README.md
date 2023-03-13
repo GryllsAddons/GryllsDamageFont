@@ -9,3 +9,4 @@ This addon will change the damage font using "damage.ttf".
 
 1. Copy the "GryllsDamageFont-main" folder to the "\Interface\AddOns" folder.    
 2. Rename the folder to "GryllsDamageFont".
+3. To change the font, replace "damage.ttf" with a .ttf font file.
