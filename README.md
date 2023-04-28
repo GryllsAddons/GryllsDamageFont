@@ -1,9 +1,9 @@
 # GryllsDamageFont
-Damage font addon for World of Warcraft: Vanilla
+Damage & exp font addon for World of Warcraft: Vanilla
 
 ### Description
 
-This addon will change the damage font using "damage.ttf".
+This addon will change the default damage and exp font using "damage.ttf".
 
 ### Installation
 
